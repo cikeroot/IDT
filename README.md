@@ -1,2 +1,3 @@
-# IDT
-Interface detection
+# IDT V 1.0
+The main function is to perform interface detection on batches of URLs
+
