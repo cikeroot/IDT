@@ -15,6 +15,15 @@ IDT支持自动使用浏览器打开url，避免了重复手测打开的操作�
 支持多线程处理
 支持代理模式
 ```
+## 安装
+
+安装模块后即可使用
+```
+pip install -r requirement.txt
+```
+![image](https://github.com/cikeroot/IDT/assets/110379183/0b3895a3-f743-4855-be90-a74e97dfe937)
+
+
 ## 选项
 ```
 usage: IDT.py [-h] [-u FILE] [-o OUTPUT] [-sc STATUS_CODE] [-b] [-oss] [-d] [--proxy PROXY]
