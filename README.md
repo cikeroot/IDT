@@ -45,7 +45,7 @@ optional arguments:
 
 ```
 
-# 使用例子:
+# 使用例子
 
 -u 选项指定批量处理的url文件
 ```
