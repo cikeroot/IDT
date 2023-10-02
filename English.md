@@ -17,6 +17,15 @@ Support for automated browser opening URLs
 
 Support for proxy mode
 ```
+## install
+
+You can use it after installing the module
+
+```
+pip install -r requirement.txt
+
+```
+![image](https://github.com/cikeroot/IDT/assets/110379183/0b3895a3-f743-4855-be90-a74e97dfe937)
 
 ## options
 ```
