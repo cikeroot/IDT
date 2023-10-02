@@ -1,5 +1,5 @@
 # IDT v1.0
-[English]('https://github.com/baimao-box/satania/blob/main/English.md')
+### [English]('https://github.com/baimao-box/satania/blob/main/English.md')
 
 该工具主要的功能是对批量url或者接口进行存活探测，支持浏览器自动打开指定的url，避免手动重复打开网址
 
