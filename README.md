@@ -73,6 +73,8 @@ python IDT.py -u url.txt -sc 301
 ```
 ![image](https://github.com/cikeroot/IDT/assets/110379183/053ce947-b0ef-4f0d-809e-cde5ee5ea989)
 
+使用 -oss参数可以枚举是否存在AK密钥
+
 添加 -o 参数可以，另存文件
 ```
 python IDT.py -u url.txt -o a.txt
